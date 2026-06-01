@@ -4,3 +4,8 @@
 
 # Dependencies (should never be committed)
 node_modules/
+
+# Stray secret files (never commit API keys)
+replacements.txt
+replacements.txt.local
+
