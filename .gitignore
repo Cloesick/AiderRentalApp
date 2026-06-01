@@ -1,3 +1,6 @@
 .aider*
 .env
 .vscode/tasks.json
+
+# Dependencies (should never be committed)
+node_modules/
